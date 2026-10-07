@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+
+# Development backups
+dashboard/app_backup.py
+dashboard/app_before_*.py
+dashboard/app_ml_verified.py
+dashboard/app_navigation_broken.py
+dashboard/app_verified_navigation.py
